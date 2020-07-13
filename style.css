@@ -130,4 +130,9 @@ footer{
       margin: .5rem;
       
   }
+  
+  footer{
+    text-align: center;
+    margin-bottom: .5rem;
+  }
 }
